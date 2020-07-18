@@ -1,2 +1,2 @@
-# CS570
-Programs for CS570 Class SDSU
+# CS570 - Operating Systems
+Programs for CS570 - Opersating Systems Class at SDSU
